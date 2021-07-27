@@ -1,4 +1,5 @@
 db.sqlite3
+workspace.xml
 __pycache__/
 .idea/
 *.pyc

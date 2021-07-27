@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96aa0bc2-ea03-4484-8f2d-b2af952a5270" name="Default Changelist" comment="" />
+    <list default="true" id="96aa0bc2-ea03-4484-8f2d-b2af952a5270" name="Default Changelist" comment="workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627394580168</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="workspace.xml">
+      <created>1627420864979</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1627420864979</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +133,7 @@
     <MESSAGE value="new branch" />
     <MESSAGE value="learning chapter 3" />
     <MESSAGE value="test static" />
-    <option name="LAST_COMMIT_MESSAGE" value="test static" />
+    <MESSAGE value="workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
   </component>
 </project>
