@@ -1,8 +1,11 @@
+
 {% extends 'rango/base.html' %}
 {% load staticfiles %}
+
 {% block title_block %}
     Register
 {% endblock %}
+
 {% block body_block %}
 <h1>Register for Rango</h1>
 {% if registered %}
@@ -14,6 +17,7 @@ Rango says: <strong>register here!</strong><br />
     {% csrf_token %}
     {{ user_form.as_p }}
     {{ profile_form.as_p }}
+
     <input type="submit" name="submit" value="Register" />
 </form>
 {% endif %}
